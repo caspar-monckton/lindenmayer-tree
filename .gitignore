@@ -1,0 +1,6 @@
+.vscode
+extra/
+game_objects/*
+src/
+*.exe
+*.dll
